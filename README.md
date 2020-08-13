@@ -5,7 +5,7 @@
 - System Specialist - [LEAN-ON]
 - Head Of Infrastructure - [Betonbroedrene]
 
-<img align="left" alt="bjerrecs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bjerrecs&show_icons=true&hide_border=true" />
+<img align="left" alt="bjerrecs's Github Stats" src="https://github-readme-stats-ten-umber.vercel.app/api/?username=bjerrecs&show_icons=true&theme=dracula" />
 
 [website]: https://bjerre.cloud
 [twitter]:https://twitter.com/bjerrecs
